@@ -1,0 +1,190 @@
+[
+    {
+       "books":[
+          {
+             "id":0,
+             "titulo":"A Cabana",
+             "autor":"William P. Young",
+             "descricao":"A Divindade nunca se revelou tão próxima de sua Criação quanto no livro A Cabana, tão  singelo e tocante.",
+             "imagem":"https://lojasaraiva.vteximg.com.br/arquivos/ids/12101236/1006693036.jpg?v=637142219129100000",
+             "rating":4,
+             "acessos":500
+          },
+          {
+             "id":1,
+             "titulo":"O Caminho da Servidão",
+             "autor":"Friedrich Hayek ",
+             "descricao":"O Caminho da Servidão ou O Caminho para a Servidão é um livro escrito por Friedrich Hayek, vencedor do prêmio Nobel de Economia de 1974, destacando-se como uma das obras de referência na defesa do liberalismo clássico ou liberalismo económico.",
+             "imagem":"https://media.gazetadopovo.com.br/rodrigo-constantino/2014/12/servidao-3e769c20.jpg",
+             "rating":5,
+             "acessos":1500
+          },
+          {
+             "id":2,
+             "titulo":"O guia do mochileiro das galáxias",
+             "autor":"Douglas Adams",
+             "descricao":"Arthur Dent é um homem normal, que está tendo um péssimo dia. Após saber que sua casa está prestes a ser demolida, ele descobre que Ford Prefect, seu melhor amigo, é um extraterrestre.",
+             "imagem":"https://lojasaraiva.vteximg.com.br/arquivos/ids/12107489/1006533873.jpg?v=637142242274330000",
+             "rating":5,
+             "acessos":2500
+          },
+          {
+             "id":3,
+             "titulo":"Uma Breve História do Tempo",
+             "autor":"Stephen Hawking",
+             "descricao":"Uma das mentes mais geniais do mundo moderno, Stephen Hawking guia o leitor na busca por respostas a algumas das maiores dúvidas da humanidade: Qual a origem do universo? Ele é infinito? E o tempo? Houve um começo e haverá um fim? Existem outras dimensões além das três espaciais? E o que vai acontecer quando tudo terminar?",
+             "imagem":"https://lojasaraiva.vteximg.com.br/arquivos/ids/12105414/1007028287.jpg?v=637142234142870000",
+             "rating":4,
+             "acessos":1300
+          },
+          {
+             "id":4,
+             "titulo":"O Imperador Das Laminas",
+             "autor":"Brian Staveley",
+             "descricao":"O Império Annuriano está em crise. O Imperador foi misteriosamente assassinado, e o trono, assim como seus herdeiros, se encontra ameaçado por uma conspiração. Kaden, herdeiro do trono, prossegue com sua vida de estudos num austero e rígido mosteiro",
+             "imagem":"https://m.media-amazon.com/images/I/51I+z69Z2HL.jpg",
+             "rating":4,
+             "acessos":300
+          },
+          {
+             "id":5,
+             "titulo":"Maus: a história de um sobrevivente",
+             "autor":"Art Spiegelman",
+             "descricao":"Maus é um graphic novel do cartunista norte-americano Art Spiegelman, serializado de 1980 a 1991. O quadrinho retrata Spiegelman entrevistando seu pai acerca das experiências deste enquanto um judeu polonês e sobrevivente do Holocausto.",
+             "imagem":"https://lojasaraiva.vteximg.com.br/arquivos/ids/12099949/1008975796.jpg?v=637142215492270000",
+             "rating":3,
+             "acessos":350
+          },
+          {
+             "id":6,
+             "titulo":"O Mundo Assombrado pelos Demônios",
+             "autor":"Carl Sagan",
+             "descricao":"Nesta obra, Carl Sagan, aflito com as explicações pseudocientíficas e místicas que ocupam os espaços dos meios de comunicação, reafirma o poder positivo e benéfico da ciência e da tecnologia para tentar iluminar os dias e recuperar os valores da racionalidade. Sagan pretende apresentar o método científico a leigos e encorajá-los a pensar de maneira crítica e cética, demonstrando métodos para distinguir ciência de pseudociência e propondo o ceticismo e o questionamento ao abordar novas ideias.",
+             "imagem":"https://images-na.ssl-images-amazon.com/images/I/51KR6ez4eFL._SX345_BO1,204,203,200_.jpg",
+             "rating":3,
+             "acessos":1200
+          },
+          {
+             "id":7,
+             "titulo":"Fábulas de La Fontaine",
+             "autor":"Jean de La Fontain",
+             "descricao":"As fábulas de La Fontaine, lidas e admiradas universalmente sob o ponto de vista moral, encerram uma lição bem mais profunda enquanto ao problema da criação artística.",
+             "imagem":"https://images-na.ssl-images-amazon.com/images/I/81TfsfY9vZL._AC_UL600_SR387,600_.jpg",
+             "rating":4,
+             "acessos":4500
+          },
+          {
+             "id":8,
+             "titulo":"Homem Aranha 99 Problemas",
+             "autor":"Matt Kindt",
+             "descricao":"Peter Parker, o Espetacular Homem-Aranha, é atraído a uma misteriosa casa assombrada, onde o vilão Arcade lhe apresenta um desafio proposto por uma figura misteriosa: para salvar a vida de incontáveis inocentes, o herói aracnídeo deve lutar contra 99 de seus mais terríveis inimigos.",
+             "imagem":"https://images-na.ssl-images-amazon.com/images/I/91pnFOlDQeL._AC_UL600_SR396,600_.jpg",
+             "rating":5,
+             "acessos":2500
+          },
+          {
+             "id":9,
+             "titulo":"O Ladrão de Raios",
+             "autor":"Rick Riordan",
+             "descricao":"The Lightning Thief é um livro juvenil de fantasia e aventura baseado na mitologia grega, escrito por Rick Riordan. É o primeiro livro da série norte-americana Percy Jackson & the Olympians, que narra a vida do adolescente Percy Jackson que descobre ser um semideus, filho de Poseidon com uma humana.",
+             "imagem":"https://images-na.ssl-images-amazon.com/images/I/61hH5E8xHZL.jpg",
+             "rating":2,
+             "acessos":3500
+          },
+          {
+            "id":10,
+            "titulo":"Mitologia Nórdica",
+            "autor":"Neil Gaiman",
+            "descricao":"As lendas nórdicas sempre tiveram uma forte influência no universo de Neil Gaiman. Em Mitologia Nórdica, o multipremiado autor regressou às suas fontes ...",
+            "imagem":"https://lojasaraiva.vteximg.com.br/arquivos/ids/12109272/1008445890.jpg?v=637142248811000000",
+            "rating":3,
+            "acessos":4500
+         },
+         {
+            "id":11,
+            "titulo":"Odisseia",
+            "autor":"Homero",
+            "descricao":"Odisseia é um dos dois principais poemas épicos da Grécia Antiga, atribuídos a Homero. É uma sequência da Ilíada, outra obra creditada ao autor ...",
+            "imagem":"https://m.media-amazon.com/images/I/41Uu2qnzEgL.jpg",
+            "rating":3,
+            "acessos":3500
+         },
+         {
+            "id":12,
+            "titulo":"Sherlock Holmes",
+            "autor":"Arthur Conan Doyle",
+            "descricao":"As Aventuras de Sherlock Holmes é uma coletânea de doze contos de aventuras do detetive Sherlock Holmes, publicada em 1892, escritos por Sir Arthur Conan Doyle. Os contos foram originalmente publicados na revista Strand Magazine ...",
+            "imagem":"https://lojasaraiva.vteximg.com.br/arquivos/ids/12054155/1007728721.jpg?v=637141924449170000",
+            "rating":4,
+            "acessos":7500
+         },
+         {
+            "id":13,
+            "titulo":"A revolução dos bichos",
+            "autor":"George Orwell",
+            "descricao":"Animal Farm é um romance satírico do escritor inglês George Orwell, publicado no Reino Unido em 17 de agosto de 1945 ...",
+            "imagem":"https://mundohype.com.br/wp-content/uploads/2019/07/81D0qNDMqPL.jpg",
+            "rating":3,
+            "acessos":2500
+         },
+         {
+            "id":14,
+            "titulo":"Jeremias: Alma",
+            "autor":"Rafael Calça",
+            "descricao":" HQ vencedora do Prêmio Jabuti 2019",
+            "imagem":"https://images-na.ssl-images-amazon.com/images/I/51yHO2Jo+yL._SX347_BO1,204,203,200_.jpg",
+            "rating":3.5,
+            "acessos":1500
+         }
+       ]
+    },
+    {
+       "novos":[
+          {
+             "id":0,
+             "titulo":"Mitologia Nórdica",
+             "autor":"Neil Gaiman",
+             "descricao":"As lendas nórdicas sempre tiveram uma forte influência no universo de Neil Gaiman. Em Mitologia Nórdica, o multipremiado autor regressou às suas fontes ...",
+             "imagem":"https://lojasaraiva.vteximg.com.br/arquivos/ids/12109272/1008445890.jpg?v=637142248811000000",
+             "rating":3,
+             "acessos":4500
+          },
+          {
+             "id":1,
+             "titulo":"Odisseia",
+             "autor":"Homero",
+             "descricao":"Odisseia é um dos dois principais poemas épicos da Grécia Antiga, atribuídos a Homero. É uma sequência da Ilíada, outra obra creditada ao autor ...",
+             "imagem":"https://m.media-amazon.com/images/I/41Uu2qnzEgL.jpg",
+             "rating":3,
+             "acessos":3500
+          },
+          {
+             "id":2,
+             "titulo":"Sherlock Holmes",
+             "autor":"Arthur Conan Doyle",
+             "descricao":"As Aventuras de Sherlock Holmes é uma coletânea de doze contos de aventuras do detetive Sherlock Holmes, publicada em 1892, escritos por Sir Arthur Conan Doyle. Os contos foram originalmente publicados na revista Strand Magazine ...",
+             "imagem":"https://lojasaraiva.vteximg.com.br/arquivos/ids/12054155/1007728721.jpg?v=637141924449170000",
+             "rating":4,
+             "acessos":7500
+          },
+          {
+             "id":3,
+             "titulo":"A revolução dos bichos",
+             "autor":"George Orwell",
+             "descricao":"Animal Farm é um romance satírico do escritor inglês George Orwell, publicado no Reino Unido em 17 de agosto de 1945 ...",
+             "imagem":"https://mundohype.com.br/wp-content/uploads/2019/07/81D0qNDMqPL.jpg",
+             "rating":3,
+             "acessos":2500
+          },
+          {
+             "id":4,
+             "titulo":"Jeremias: Alma",
+             "autor":"Rafael Calça",
+             "descricao":" HQ vencedora do Prêmio Jabuti 2019",
+             "imagem":"https://images-na.ssl-images-amazon.com/images/I/51yHO2Jo+yL._SX347_BO1,204,203,200_.jpg",
+             "rating":3.5,
+             "acessos":1500
+          }
+       ]
+    }
+ ]
